@@ -17,7 +17,7 @@ MS SQL server
 ## How to run
 _Have python version 3.13.7_
 
-**Clone the repository**:  git clone https://github.com/MstAnarkoli/----
+**Clone the repository**:  git clone https://github.com/MstAnarkoli/Data-Science-Project-Adventure-Works-SQL-exam
 **Install dependencies** : pip install -r requirements.txt
 
 **Open notebooks/report.ipynb** and run all cells to see the results and charts and interpretations
